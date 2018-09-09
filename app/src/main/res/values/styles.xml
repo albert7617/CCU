@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryLight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryLight</item>
+        <item name="colorAccent">@color/colorAccentLight</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="LightToolbar">
+        <item name="android:background">@color/colorPrimaryLight</item>
+    </style>
+
+    <style name="LightCardView">
+
+    </style>
+
+</resources>

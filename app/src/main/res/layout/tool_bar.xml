@@ -1,0 +1,7 @@
+<android.support.v7.widget.Toolbar
+    android:id="@+id/toolbar"
+    style="@style/LightToolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:elevation="0dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

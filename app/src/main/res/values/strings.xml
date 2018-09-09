@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ccu</string>
+    <string name="main_actionbar_title">課程清單</string>
+    <string name="setting">設定</string>
+    <string name="login">登入</string>
+    <string name="user_name_key">0</string>
+    <string name="password_key">1</string>
+    <string name="is_login_key">2</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="normal_score">一般測驗</string>
+    <string name="online_score">線上測驗</string>
+    <string name="homework_score">線上作業</string>
+    <string name="total_score">總成績</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">學號</string>
+    <string name="prompt_password">密碼</string>
+    <string name="action_sign_in">登入</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="not_login">未登入</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_course_detail">CourseDetailActivity</string>
+    <string name="title_announcement">公告</string>
+    <string name="title_score">成績</string>
+    <string name="title_material">教材</string>
+    <string name="title_activity_settings">設定</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_group_account">帳號設定</string>
+    <string name="pref_title_account">帳號</string>
+    <string name="pref_title_log_out">登出</string>
+    <string name="pref_group_about">關於</string>
+    <string name="pref_title_about">CCU</string>
+    <string name="app_version">0.1.0</string>
+    <array name="tap_count">
+        <item>安安</item>
+        <item>安安你好~</item>
+        <item>阿諾ㄋㄟ~阿諾ㄋㄟ~</item>
+        <item>變態別戳啦!</item>
+        <item>喂~警察杯杯嗎?</item>
+        <item>你不是開發人員!</item>
+        <item>你不是開發人員!</item>
+        <item>你不是開發人員!</item>
+        <item>你不是開發人員!</item>
+        <item>你不是開發人員!</item>
+        <item>推播功能尚未完成!</item>
+    </array>
+    
+
+
+</resources>
